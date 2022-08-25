@@ -1,0 +1,28 @@
+.menu {
+
+}
+
+.logo {
+    width: 25px;
+    height: 25px;
+}
+
+.cotainter {
+    background-color: blue;
+}
+
+.left {
+    background-color: pink;
+    display: inline-block;
+    width: 40%;
+}
+
+.right {
+    background-color: mediumseagreen;
+    display: inline-block;
+    width: 40%;
+}
+
+.button {
+    background-color: red;
+}
